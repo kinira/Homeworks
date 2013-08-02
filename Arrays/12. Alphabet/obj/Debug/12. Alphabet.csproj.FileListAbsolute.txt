@@ -1,0 +1,4 @@
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\12. Alphabet\bin\Debug\_12.Alphabet.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\12. Alphabet\bin\Debug\_12.Alphabet.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\12. Alphabet\obj\Debug\_12.Alphabet.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\12. Alphabet\obj\Debug\_12.Alphabet.pdb

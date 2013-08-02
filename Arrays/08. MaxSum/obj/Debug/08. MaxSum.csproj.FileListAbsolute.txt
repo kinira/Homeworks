@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\08. MaxSum\bin\Debug\_08.MaxSum.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\08. MaxSum\bin\Debug\_08.MaxSum.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\08. MaxSum\obj\Debug\08. MaxSum.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\08. MaxSum\obj\Debug\_08.MaxSum.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\08. MaxSum\obj\Debug\_08.MaxSum.pdb

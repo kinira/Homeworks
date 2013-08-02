@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\07. SortArray\bin\Debug\_07.SortArray.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\07. SortArray\bin\Debug\_07.SortArray.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\07. SortArray\obj\Debug\07. SortArray.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\07. SortArray\obj\Debug\_07.SortArray.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\07. SortArray\obj\Debug\_07.SortArray.pdb

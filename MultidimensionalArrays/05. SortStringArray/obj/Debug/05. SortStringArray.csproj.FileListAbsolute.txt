@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\MultidimensionalArrays\05. SortStringArray\bin\Debug\_05.SortStringArray.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\MultidimensionalArrays\05. SortStringArray\bin\Debug\_05.SortStringArray.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\MultidimensionalArrays\05. SortStringArray\obj\Debug\05. SortStringArray.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\MultidimensionalArrays\05. SortStringArray\obj\Debug\_05.SortStringArray.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\MultidimensionalArrays\05. SortStringArray\obj\Debug\_05.SortStringArray.pdb

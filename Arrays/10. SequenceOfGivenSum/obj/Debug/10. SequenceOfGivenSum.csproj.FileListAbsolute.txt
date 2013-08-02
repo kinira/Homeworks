@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\10. SequenceOfGivenSum\bin\Debug\_10.SequenceOfGivenSum.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\10. SequenceOfGivenSum\bin\Debug\_10.SequenceOfGivenSum.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\10. SequenceOfGivenSum\obj\Debug\_10.SequenceOfGivenSum.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\10. SequenceOfGivenSum\obj\Debug\_10.SequenceOfGivenSum.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\10. SequenceOfGivenSum\obj\Debug\10. SequenceOfGivenSum.csprojResolveAssemblyReference.cache

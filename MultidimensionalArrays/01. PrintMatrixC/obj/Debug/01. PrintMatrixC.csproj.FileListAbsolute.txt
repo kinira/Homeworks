@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\MultidimensionalArrays\01. PrintMatrixC\bin\Debug\_01.PrintMatrixC.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\MultidimensionalArrays\01. PrintMatrixC\bin\Debug\_01.PrintMatrixC.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\MultidimensionalArrays\01. PrintMatrixC\obj\Debug\_01.PrintMatrixC.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\MultidimensionalArrays\01. PrintMatrixC\obj\Debug\_01.PrintMatrixC.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\MultidimensionalArrays\01. PrintMatrixC\obj\Debug\01. PrintMatrixC.csprojResolveAssemblyReference.cache

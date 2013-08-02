@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\03 CompareCharArrays\bin\Debug\03 CompareCharArrays.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\03 CompareCharArrays\bin\Debug\03 CompareCharArrays.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\03 CompareCharArrays\obj\Debug\03 CompareCharArrays.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\03 CompareCharArrays\obj\Debug\03 CompareCharArrays.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\03 CompareCharArrays\obj\Debug\03 CompareCharArrays.pdb

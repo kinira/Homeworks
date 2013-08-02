@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\15. SieveOfEratosthenes\bin\Debug\_15.SieveOfEratosthenes.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\15. SieveOfEratosthenes\bin\Debug\_15.SieveOfEratosthenes.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\15. SieveOfEratosthenes\obj\Debug\15. SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\15. SieveOfEratosthenes\obj\Debug\_15.SieveOfEratosthenes.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\15. SieveOfEratosthenes\obj\Debug\_15.SieveOfEratosthenes.pdb

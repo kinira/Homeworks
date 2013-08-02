@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\04. MaxSequenceOfEqualElements\obj\Debug\04. MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\04. MaxSequenceOfEqualElements\bin\Debug\_04.MaxSequenceOfEqualElements.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\04. MaxSequenceOfEqualElements\bin\Debug\_04.MaxSequenceOfEqualElements.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\04. MaxSequenceOfEqualElements\obj\Debug\_04.MaxSequenceOfEqualElements.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\04. MaxSequenceOfEqualElements\obj\Debug\_04.MaxSequenceOfEqualElements.pdb

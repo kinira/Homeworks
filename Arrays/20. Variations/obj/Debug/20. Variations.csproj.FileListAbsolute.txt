@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\20. Variations\bin\Debug\_20.Variations.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\20. Variations\bin\Debug\_20.Variations.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\20. Variations\obj\Debug\20. Variations.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\20. Variations\obj\Debug\_20.Variations.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\20. Variations\obj\Debug\_20.Variations.pdb

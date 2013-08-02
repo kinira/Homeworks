@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\06 KElementsWithMaxsum\bin\Debug\06 KElementsWithMaxsum.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\06 KElementsWithMaxsum\bin\Debug\06 KElementsWithMaxsum.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\06 KElementsWithMaxsum\obj\Debug\06. KElementsWithMaxsum.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\06 KElementsWithMaxsum\obj\Debug\06 KElementsWithMaxsum.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\06 KElementsWithMaxsum\obj\Debug\06 KElementsWithMaxsum.pdb

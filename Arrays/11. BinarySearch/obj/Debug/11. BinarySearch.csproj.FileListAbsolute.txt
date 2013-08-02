@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\11. BinarySearch\obj\Debug\11. BinarySearch.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\11. BinarySearch\bin\Debug\_11.BinarySearch.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\11. BinarySearch\bin\Debug\_11.BinarySearch.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\11. BinarySearch\obj\Debug\_11.BinarySearch.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Arrays\11. BinarySearch\obj\Debug\_11.BinarySearch.pdb

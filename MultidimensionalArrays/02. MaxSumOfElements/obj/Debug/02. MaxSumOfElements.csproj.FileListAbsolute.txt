@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\MultidimensionalArrays\02. MaxSumOfElements\bin\Debug\_02.MaxSumOfElements.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\MultidimensionalArrays\02. MaxSumOfElements\bin\Debug\_02.MaxSumOfElements.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\MultidimensionalArrays\02. MaxSumOfElements\obj\Debug\02. MaxSumOfElements.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\MultidimensionalArrays\02. MaxSumOfElements\obj\Debug\_02.MaxSumOfElements.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\MultidimensionalArrays\02. MaxSumOfElements\obj\Debug\_02.MaxSumOfElements.pdb
