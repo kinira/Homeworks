@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\06. FirstBigger\bin\Debug\_06.FirstBigger.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\06. FirstBigger\bin\Debug\_06.FirstBigger.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\06. FirstBigger\obj\Debug\06. FirstBigger.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\06. FirstBigger\obj\Debug\_06.FirstBigger.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\06. FirstBigger\obj\Debug\_06.FirstBigger.pdb

@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\15. GenericMethod\bin\Debug\_15.GenericMethod.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\15. GenericMethod\bin\Debug\_15.GenericMethod.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\15. GenericMethod\obj\Debug\_15.GenericMethod.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\15. GenericMethod\obj\Debug\_15.GenericMethod.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\15. GenericMethod\obj\Debug\15. GenericMethod.csprojResolveAssemblyReference.cache

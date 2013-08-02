@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\03. LastDigitName\bin\Debug\_03.LastDigitName.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\03. LastDigitName\bin\Debug\_03.LastDigitName.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\03. LastDigitName\obj\Debug\03. LastDigitName.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\03. LastDigitName\obj\Debug\_03.LastDigitName.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\03. LastDigitName\obj\Debug\_03.LastDigitName.pdb

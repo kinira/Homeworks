@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\10. Factorial\bin\Debug\_10.Factorial.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\10. Factorial\bin\Debug\_10.Factorial.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\10. Factorial\obj\Debug\_10.Factorial.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\10. Factorial\obj\Debug\_10.Factorial.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\10. Factorial\obj\Debug\10. Factorial.csprojResolveAssemblyReference.cache

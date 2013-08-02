@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\05. IndexOfElement\bin\Debug\_05.IndexOfElement.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\05. IndexOfElement\bin\Debug\_05.IndexOfElement.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\05. IndexOfElement\obj\Debug\05. IndexOfElement.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\05. IndexOfElement\obj\Debug\_05.IndexOfElement.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\05. IndexOfElement\obj\Debug\_05.IndexOfElement.pdb

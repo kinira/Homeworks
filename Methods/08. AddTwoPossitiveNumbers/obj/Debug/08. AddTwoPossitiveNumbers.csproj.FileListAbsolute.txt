@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\08. AddTwoPossitiveNumbers\bin\Debug\_08.AddTwoPossitiveNumbers.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\08. AddTwoPossitiveNumbers\bin\Debug\_08.AddTwoPossitiveNumbers.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\08. AddTwoPossitiveNumbers\obj\Debug\08. AddTwoPossitiveNumbers.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\08. AddTwoPossitiveNumbers\obj\Debug\_08.AddTwoPossitiveNumbers.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\08. AddTwoPossitiveNumbers\obj\Debug\_08.AddTwoPossitiveNumbers.pdb

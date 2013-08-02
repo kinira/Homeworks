@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\02. GetMax\obj\Debug\02. GetMax.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\02. GetMax\bin\Debug\_02.GetMax.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\02. GetMax\bin\Debug\_02.GetMax.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\02. GetMax\obj\Debug\_02.GetMax.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\02. GetMax\obj\Debug\_02.GetMax.pdb

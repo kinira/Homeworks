@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\09. MaximalElementInPortion\bin\Debug\_09.MaximalElementInPortion.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\09. MaximalElementInPortion\bin\Debug\_09.MaximalElementInPortion.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\09. MaximalElementInPortion\obj\Debug\09. MaximalElementInPortion.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\09. MaximalElementInPortion\obj\Debug\_09.MaximalElementInPortion.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\09. MaximalElementInPortion\obj\Debug\_09.MaximalElementInPortion.pdb

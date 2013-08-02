@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\04. NumberInArray\bin\Debug\_04.NumberInArray.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\04. NumberInArray\bin\Debug\_04.NumberInArray.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\04. NumberInArray\obj\Debug\04. NumberInArray.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\04. NumberInArray\obj\Debug\_04.NumberInArray.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\04. NumberInArray\obj\Debug\_04.NumberInArray.pdb

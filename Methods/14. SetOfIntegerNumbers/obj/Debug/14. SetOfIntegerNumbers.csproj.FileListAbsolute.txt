@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\14. SetOfIntegerNumbers\bin\Debug\_14.SetOfIntegerNumbers.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\14. SetOfIntegerNumbers\bin\Debug\_14.SetOfIntegerNumbers.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\14. SetOfIntegerNumbers\obj\Debug\14. SetOfIntegerNumbers.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\14. SetOfIntegerNumbers\obj\Debug\_14.SetOfIntegerNumbers.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\14. SetOfIntegerNumbers\obj\Debug\_14.SetOfIntegerNumbers.pdb

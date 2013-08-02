@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\11. Polynomials\bin\Debug\_11.Polynomials.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\11. Polynomials\bin\Debug\_11.Polynomials.pdb
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\11. Polynomials\obj\Debug\11 - 12. Polynomials.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\11. Polynomials\obj\Debug\_11.Polynomials.exe
+D:\My Documents\Visual Studio 2012\Projects\Software Acadamy HW\Methods\11. Polynomials\obj\Debug\_11.Polynomials.pdb
